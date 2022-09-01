@@ -5,5 +5,5 @@ Respostas:
 4-para diminuir ou aumentar a transparencia de algum elemento
 5-JavaScript
 6-HTML
-7-JSX
+7-React Native
 8-O if serve para definir alguma condição de verdadeiro ou falso
