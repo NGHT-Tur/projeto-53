@@ -1,0 +1,9 @@
+Respostas:
+1- JavaScript
+2-HTML
+3-Agrupar os elementos para ajudar no desing
+4-para diminuir ou aumentar a transparencia de algum elemento
+5-JavaScript
+6-HTML
+7-JSX
+8-O if serve para definir alguma condição de verdadeiro ou falso
